@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b8dcd7bee53be409ca8bda17aa5f6ac5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 31492
+  packageName: Wooden Floor Pack
+  packageVersion: 1.0
+  assetPath: Assets/Vatnick/Material/Textures/Ground/Floors/Materials/Parallax/woodPlanks_bare03_parallax.mat
+  uploadId: 52777
